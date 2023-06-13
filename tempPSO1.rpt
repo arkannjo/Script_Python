@@ -1,0 +1,26 @@
+  Page 1                                    Wed Nov 04 13:22:43 2020
+
+  ******************************************************************
+  *                           E P A N E T                          *
+  *                   Hydraulic and Water Quality                  *
+  *                   Analysis for Pipe Networks                   *
+  *                         Version 2.00.12                        *
+  ******************************************************************
+  
+  Analysis begun Wed Nov 04 13:22:43 2020
+
+  WARNING: Negative pressures at 0:00:00 hrs.
+  WARNING: Node 293 disconnected at 0:00:00 hrs
+  WARNING: Node 156 disconnected at 0:00:00 hrs
+  WARNING: Node 1132 disconnected at 0:00:00 hrs
+  WARNING: Node 138 disconnected at 0:00:00 hrs
+  WARNING: Node 1801 disconnected at 0:00:00 hrs
+  WARNING: Node 1131 disconnected at 0:00:00 hrs
+  WARNING: Node 1284 disconnected at 0:00:00 hrs
+  WARNING: Node 191 disconnected at 0:00:00 hrs
+  WARNING: Node 292 disconnected at 0:00:00 hrs
+  WARNING: Node 501 disconnected at 0:00:00 hrs
+  WARNING: 73 additional nodes disconnected at 0:00:00 hrs
+  WARNING: System disconnected because of Link 2122
+  
+  Analysis ended Wed Nov 04 13:22:43 2020
